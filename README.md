@@ -3,8 +3,8 @@
 
 1. Create Map
  Specs: 
- 1. svg
- 2. layers
+ - svg
+ - layers
  
  https://github.com/ucdavis/wayfinding/wiki/File-Format
  
