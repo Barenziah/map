@@ -1,10 +1,10 @@
 # map
 
-1.Map
+1. Map
 https://github.com/ucdavis/wayfinding/wiki/File-Format
-2.lib
+2. lib
 https://github.com/ucdavis/wayfinding/wiki/File-Format
-3.Database
+3. Database
 AWS
 
 Install mysql:
