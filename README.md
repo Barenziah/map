@@ -20,5 +20,11 @@ Install mysql:
 4. Enter database
 
 
-Server blocked:
+- Server blocked:
 kill $(ps -aef | grep java | grep apache | awk '{print $2}')
+
+- Redesign
+1. Choose your typography
+2. Select your colour theme
+
+
