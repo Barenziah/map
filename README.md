@@ -18,3 +18,7 @@ Install mysql:
 2. export PATH=${PATH}:/usr/local/mysql/bin
 3. sudo /usr/local/mysql/support-files/mysql.server start 
 4. Enter database
+
+
+Server blocked:
+kill $(ps -aef | grep java | grep apache | awk '{print $2}')
